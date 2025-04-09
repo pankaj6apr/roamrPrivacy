@@ -1,12 +1,12 @@
-# Privacy Policy for Safarly  
+# Privacy Policy for RoamR  
 **Last Updated:** [Mar 6, 2025]  
 
-Thank you for using **Safarly**. This Privacy Policy explains how we handle your information when you use our App.  
+Thank you for using **RoamR**. This Privacy Policy explains how we handle your information when you use our App.  
 
 ---
 
 ### **1. No Personal Data Collection**  
-Safarly does not collect, store, or share any personal information. The App operates entirely offline, and all data you create (e.g., travel logs, photos, notes) is stored locally on your device.  
+RoamR does not collect, store, or share any personal information. The App operates entirely offline, and all data you create (e.g., travel logs, photos, notes) is stored locally on your device.  
 
 ---
 
@@ -16,7 +16,7 @@ All data you enter into the App (e.g., travel logs and notes) is stored only on 
 ---
 
 ### **3. No Third-Party Services**  
-Safarly does not integrate with any third-party services that collect or process user data.  
+RoamR does not integrate with any third-party services that collect or process user data.  
 
 ---
 
