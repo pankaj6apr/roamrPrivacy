@@ -1,4 +1,4 @@
-# Privacy Policy for RoamR  
+# Privacy Policy
 **Last Updated:** [Mar 6, 2025]  
 
 Thank you for using **RoamR**. This Privacy Policy explains how we handle your information when you use our App.  
