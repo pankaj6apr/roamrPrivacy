@@ -1,5 +1,5 @@
-# RoamR Support  
-Thank you for using **RoamR**! If you need assistance, please review the information below or contact us directly.  
+# Support  
+Thank you for using my app! If you need assistance, please review the information below or contact us directly.  
 
 ### **Contact Us**  
 If you have additional questions or need support, please email us at:  
