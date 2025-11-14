@@ -1,22 +1,22 @@
 # Privacy Policy
 **Last Updated:** [Mar 6, 2025]  
 
-Thank you for using **RoamR**. This Privacy Policy explains how we handle your information when you use our App.  
+Thank you for using our app. This Privacy Policy explains how we handle your information when you use our App.  
 
 ---
 
 ### **1. No Personal Data Collection**  
-RoamR does not collect, store, or share any personal information. The App operates entirely offline, and all data you create (e.g., travel logs, photos, notes) is stored locally on your device.  
+RoamR does not collect, store, or share any personal information. The App operates entirely offline, and all data you create is stored locally on your device.  
 
 ---
 
 ### **2. Local Data Storage**  
-All data you enter into the App (e.g., travel logs and notes) is stored only on your device. We do not have access to this data, and it is not transmitted to any external servers.  
+All data you enter into the App is stored only on your device. We do not have access to this data, and it is not transmitted to any external servers.  
 
 ---
 
 ### **3. No Third-Party Services**  
-RoamR does not integrate with any third-party services that collect or process user data.  
+We use gemini as the AI assistant for chat inside the app. If you don't use it, there is no other way for any other third-party services to collect or process user data.  
 
 ---
 
